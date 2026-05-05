@@ -73,3 +73,15 @@
 - [Programming: Principles and Practice Using C++, 2nd Edition](https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/) - An introduction to the fundamentals concepts and techniques in programming through C++ by the creator of C++.
 - [Head First C](https://www.oreilly.com/library/view/head-first-c/9781449335649/) - A complete learning experience for C and structured imperative programming.
 - [21st Century C, 2nd Edition](https://www.oreilly.com/library/view/21st-century-c/9781491904428/) - Discover up-to-date techniques missing from other C tutorials, whether you’re new to the language or just getting reacquainted.
+
+### Deep Learning
+- [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) - Beginner friendly, hands-on approach to neural networks by Andrej Karpathy (ex OpenAI, Tesla, ...).
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Free modern deep learning textbook (updated till late 2025). Used in top uni DL classes (UC Berkeley CS182). More math prereq heavy though.
+- [Foundations of Deep RL - Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) - Free comprehensive overview of deep reinforcement learning by Pieter Abbeel (Prof. UC Berkeley). Heavyish on math (requires being comfortable with basic DL and probability concepts). Great intro for LLM RL as well.
+- [RLHF Book](https://rlhfbook.com) - Solid introduction to RLHF and post-training for language models by Nathan Lambert (post-training lead at Ai2). Requires DL basics and basic optimization / lin alg / prob.
+
+### ML Infra / Scaling / Accelerator Programming
+- [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview) - Scaling guide for training massive LLMS on GPU clusters by HuggingFace.
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/) - Demystification of the science of scaling language models with a focus on Jax / TPUs though a GPU section is included. By the Google Deepmind team.
+- [Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-ebook/dp/B0DRCSRMXC) - Comprehensive walk through on fundamentals of writing and optimizing kernels on accelerators. Cuda focused.
+- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) - Walk through of the anatomy of vLLM. Walks through the basics like paged attention and advanced inference features like speculative decoding, prefix caching, ...
