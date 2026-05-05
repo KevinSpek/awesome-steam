@@ -40,7 +40,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Electrical Engineering
--[iLectureOnline Electrical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28) - Youtube lectures covering topics in electrical engineering from basic electrical laws to circuitry to fourier transforms.
+- [iLectureOnline Electrical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28) - Youtube lectures covering topics in electrical engineering from basic electrical laws to circuitry to fourier transforms.
 
 ## Industrial Engineering
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
